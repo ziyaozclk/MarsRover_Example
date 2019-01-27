@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MarsRover_Case/v15/Server/sqlite3/storage.ide
+/MarsRover_Case.ConsoleApp/bin/Debug/netcoreapp2.1
+/.vs/MarsRover_Case/v15/Server/sqlite3/storage.ide-wal
+/.vs/MarsRover_Case/v15/Server/sqlite3/storage.ide-shm
+/.vs/MarsRover_Case/v15/Server/sqlite3
+/.vs/MarsRover_Case/v15/.suo
+/MarsRover_Case.ConsoleApp/obj/project.assets.json
+/MarsRover_Case.ConsoleApp/obj/MarsRover_Case.ConsoleApp.csproj.nuget.g.targets
+/MarsRover_Case.ConsoleApp/obj/MarsRover_Case.ConsoleApp.csproj.nuget.g.props
+/MarsRover_Case.ConsoleApp/obj/MarsRover_Case.ConsoleApp.csproj.nuget.cache
+/MarsRover_Case.ConsoleApp/obj
