@@ -13,11 +13,11 @@ namespace MarsRover_Case.ConsoleApp
         static void Main(string[] args)
         {
             string commandString =
-                @"5 5
-                1 2 N
-                LMLMLMLMM
-                3 3 E
-                MMRMMRMRRM";
+                @"4 4
+1 2 N
+LRRMLMLMM
+3 3 E
+MMRMMRMRRM";
 
             RoverManager roverManager = new RoverManager();
 
