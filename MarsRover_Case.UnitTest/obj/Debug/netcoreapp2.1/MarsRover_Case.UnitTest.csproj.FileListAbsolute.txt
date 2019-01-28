@@ -1,0 +1,17 @@
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\bin\Debug\netcoreapp2.1\MarsRover_Case.UnitTest.deps.json
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\bin\Debug\netcoreapp2.1\MarsRover_Case.UnitTest.runtimeconfig.json
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\bin\Debug\netcoreapp2.1\MarsRover_Case.UnitTest.runtimeconfig.dev.json
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\bin\Debug\netcoreapp2.1\MarsRover_Case.UnitTest.dll
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\bin\Debug\netcoreapp2.1\MarsRover_Case.UnitTest.pdb
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\bin\Debug\netcoreapp2.1\MarsRover_Case.ConsoleApp.dll
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\bin\Debug\netcoreapp2.1\MarsRover_Case.ConsoleApp.pdb
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\obj\Debug\netcoreapp2.1\MarsRover_Case.UnitTest.csprojAssemblyReference.cache
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\obj\Debug\netcoreapp2.1\MarsRover_Case.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\obj\Debug\netcoreapp2.1\MarsRover_Case.UnitTest.AssemblyInfoInputs.cache
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\obj\Debug\netcoreapp2.1\MarsRover_Case.UnitTest.AssemblyInfo.cs
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\obj\Debug\netcoreapp2.1\MarsRover_Case.UnitTest.csproj.CopyComplete
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\obj\Debug\netcoreapp2.1\MarsRover_Case.UnitTest.dll
+C:\Users\ken\source\repos\MarsRover_Example\MarsRover_Case.UnitTest\obj\Debug\netcoreapp2.1\MarsRover_Case.UnitTest.pdb
